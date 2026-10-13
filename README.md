@@ -5,7 +5,8 @@ This repository contains the code and data associated with the scientific public
 
 "Rhythmic brain-behavior coupling in the visuo-motor system: theta-band coherence links saccades and oculomotor brain regions"
 
-Authors: \\
+Authors:
+
 Yvonne Buschermöhle, Jan-Ole Radecke, Andreas Sprenger, Tim Erdbrügger, Till R. Schneider, Rebekka Lencer, Carsten H. Wolters, Joachim Gross
 
 Journal: 
